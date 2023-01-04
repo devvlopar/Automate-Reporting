@@ -30,9 +30,8 @@ all_std = [   ['JENIL' , 270583],
     ['Kartik' , 282921],
     ['Darshil' , 276173],
     ['Rajat' , 277406],
-    ['Yugkumar', 260489]
+    ['Yugkumar', 260489],
+    ['Namrata',271428]
 ]
 
-for (num,ele) in enumerate(all_std,1):
-    print(num,':',ele[0])
 

@@ -5,12 +5,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
 import time
+from . import student_data
 
 #-------------------TODAYS---ATTENDANCE-------------------------#
-list1 = [15,16,17,18,19,20,21,22,23,24,29,30,14,10]
-
-
-all_studets = [
+list1 = [1,2,3,4,5,6,7,8,9,25,26,27,28,32,33,31,34]
+all_students = student_data.all_std
+all_students = [   
     [],
     ['JENIL' , 270583],
     ['khushal' , 270291],
@@ -44,13 +44,13 @@ all_studets = [
     ['Kartik' , 282921],
     ['Darshil' , 276173],
     ['Rajat' , 277406],
-    ['Yugkumar', 260489]
+    ['Yugkumar', 260489],
+    ['Namrata',271428]
 ]
-
 weird_std_nums = []
 
 for i in list1:
-    weird_std_nums.append(str(all_studets[i][-1]))
+    weird_std_nums.append(str(all_students[i][-1]))
 
 
 fox_location = '/usr/bin/chromium'
