@@ -1,0 +1,53 @@
+1672773218641	geckodriver	INFO	Listening on 127.0.0.1:33773
+1672773234937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTgd4oQ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1672773235631	Marionette	INFO	Marionette enabled
+1672773235635	Marionette	INFO	Listening on port 44941
+Read port: 44941
+WebDriver BiDi listening on ws://127.0.0.1:54595
+1672773235756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTgd4oQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54595/devtools/browser/b6961e87-020e-45b0-8827-dbe0e078f91f
+JavaScript error: https://topsint.com/topserp/, line 135: TypeError: jQuery(...).chosen is not a function
+1672773240204	Marionette	INFO	Stopped listening on port 44941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672773243398	geckodriver	INFO	Listening on 127.0.0.1:44643
+1672773265807	geckodriver	INFO	Listening on 127.0.0.1:48485
+1672773283128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTUiK3m"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1672773283888	Marionette	INFO	Marionette enabled
+1672773283893	Marionette	INFO	Listening on port 34789
+Read port: 34789
+WebDriver BiDi listening on ws://127.0.0.1:42033
+1672773284064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTUiK3m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42033/devtools/browser/2912a1fe-fe92-4b61-8cc9-82ef8cad1734
+JavaScript error: https://topsint.com/topserp/, line 135: TypeError: jQuery(...).chosen is not a function
+1672773304069	Marionette	INFO	Stopped listening on port 34789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672773351974	geckodriver	INFO	Listening on 127.0.0.1:51669
+1672773369521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5a3qsL"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1672773370313	Marionette	INFO	Marionette enabled
+1672773370318	Marionette	INFO	Listening on port 41903
+Read port: 41903
+WebDriver BiDi listening on ws://127.0.0.1:39881
+1672773370460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5a3qsL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39881/devtools/browser/16c8761b-1625-40ba-9441-f93e11707c57
+JavaScript error: https://topsint.com/topserp/, line 135: TypeError: jQuery(...).chosen is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

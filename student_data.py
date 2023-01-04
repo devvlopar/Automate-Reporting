@@ -1,0 +1,38 @@
+all_std = [   ['JENIL' , 270583],
+    ['khushal' , 270291],
+    ['krishil' , 269700],
+    ['kiran' , 260214],
+    ['jagruti' , 272328],
+    ['Pratixa' , 242468],
+    ['rinkal' , 273459],
+    ['vijay' , 275427],
+    ['Papu' , 272260],
+    ['Harekrishna' , 242278],
+    ['khushal' , 270291],
+    ['sweta' , 268310],
+    ['Dhruv' , 278735],
+    ['Ankit' , 265202],
+    ['Mitesh' , 280623],
+    ['Ashwini' , 283803],
+    ['Jogendra' , 283090],
+    ['Murari' , 283804],
+    ['Avinash' , 283540],
+    ['Divyesh' , 279309],
+    ['krrisha' , 274735],
+    ['ansh' , 265856],
+    ['Jay' , 281533],
+    ['Meet' , 283214],
+    ['Chintan' , 284214],
+    ['Dhaval' , 274674],
+    ['Vilas' , 283930],
+    ['Umang' , 282261],
+    ['Jigar' , 284579],
+    ['Kartik' , 282921],
+    ['Darshil' , 276173],
+    ['Rajat' , 277406],
+    ['Yugkumar', 260489]
+]
+
+for (num,ele) in enumerate(all_std,1):
+    print(num,':',ele[0])
+
